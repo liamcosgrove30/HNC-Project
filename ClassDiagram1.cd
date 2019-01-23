@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LiamCOOPAssessment.screenAnimation">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAYCEAAAAAAAAgAAEAKAIBACEAQAABAIAAAQAAAAAAQ=</HashCode>
+      <FileName>Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.cButton">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAQAAAAAAAgAAAEAAAQBAAABAACAAAAAgAAAAAAQ=</HashCode>
+      <FileName>cButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.CollisionTiles">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionTiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.FadeAnimation">
+    <Position X="7.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAACABAAAABAAAAAQAAAAAABABACAAAAAAgkAAQ=</HashCode>
+      <FileName>FadeAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.Game1">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.GameScreen">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAQ=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.InputManager">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAEAAAABAAAEAAAABAAAABBAAAA=</HashCode>
+      <FileName>InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.IntroScreen">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAQ=</HashCode>
+      <FileName>IntroScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.Level_One">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Level_One.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.Map">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEABAAAAgABAAAAAEAAAAAAAACAAQAAAEAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.PC">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAgAgAACAICAAEAAAAgAAAAQAAAAAAAQ=</HashCode>
+      <FileName>PC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.Program">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.RectangleHelp">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAE=</HashCode>
+      <FileName>RectangleHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.ScreenManager">
+    <Position X="10" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAgwAAAgAAAAIAAARgCAAgQIAgAAAAAAQ=</HashCode>
+      <FileName>ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.Tiles">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAgAAAAAAACAAAAAgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiamCOOPAssessment.TitleScreen">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEMAIEAACAggMAAACgAABABAAAAAIAQAAAAAAAAAQ=</HashCode>
+      <FileName>TitleScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
